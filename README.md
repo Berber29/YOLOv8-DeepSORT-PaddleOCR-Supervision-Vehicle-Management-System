@@ -1,4 +1,4 @@
-# Vehicle Management System
+# Vehicle-License-Counter-Speed-Limit
 ![image](https://github.com/tmkhang1999/YOLOv8-DeepSORT-PaddleOCR-Supervision-Vehicle-Management-System/assets/74235084/9b90b252-9929-4b7c-ae64-efc33880975c)
 
 https://github.com/tmkhang1999/YOLOv8-DeepSORT-PaddleOCR-Supervision-Vehicle-Management-System/assets/74235084/4b8cd9f3-6de2-4060-848e-a12cfafd97b8
@@ -20,15 +20,15 @@ In recent years, there has been a rapid growth in the field of AI. This growth h
 By achieving these objectives, we aspire to create a more efficient and intelligent traffic monitoring system that leverages the power of AI to enhance safety and traffic management on highways.
 
 ## Installation <a name="installation"></a>
-- Python >= 3.6
-- supervision ~= 0.1.0
-- ultralytics ~= 8.0.190
-- deep-sort-realtime == 1.3.1
-- paddleocr >= 2.0.1
-- PyMuPDF == 1.21.1
-- numpy < 1.24
-- opencv-python ~= 4.8.1.78
-- pyaml_env ~= 1.2.1
+- Python>=3.6
+- supervision~=0.1.0
+- ultralytics~=8.0.190
+- deep-sort-realtime==1.3.1
+- paddleocr>=2.0.1
+- PyMuPDF==1.21.1
+- numpy<1.24
+- opencv-python~=4.8.1.78
+- pyaml_env~=1.2.1
 
 To install this project and its dependencies, follow these steps:
 1. Clone this repository:
